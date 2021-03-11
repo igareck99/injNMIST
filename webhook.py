@@ -1,0 +1,1 @@
+s = 'https://api.telegram.org/bot1640615902:AAE2ahiOEmr5Se2URoLDYO4WF_k5eWsx0nM/setWebhook?url=https://a078937be85b.ngrok.io'
